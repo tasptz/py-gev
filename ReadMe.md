@@ -5,6 +5,7 @@ This package provides a lightweight python interface to the [Linux GigE-V Framew
 First
 ```
 pip install -r requirements.txt
+git submodule update --init --recursive
 ```
 then
 ```
