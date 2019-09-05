@@ -1,0 +1,2 @@
+scikit-build~=0.10
+ninja~=1.9
